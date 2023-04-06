@@ -1,0 +1,9 @@
+# greeting for us
+# dynamically adding new questions
+# Asking date and time
+# Ask to check the internet
+# Ask to change the personal assistant name
+# Ask to start speaning or stop speaking
+# Ask to Open facebook and google
+# Ask to Close browser
+# Top 10 news

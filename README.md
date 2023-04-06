@@ -10,4 +10,34 @@
 > - can show as well as speak top 10 news for us
 
 
+## API Reference
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `api_key` | `string` | **Required**. d06efeb11b384df7a2456e36f7d32bf3 |
+
+
+## Installation
+```bash
+  $ pip install gTTS
+```
+
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
